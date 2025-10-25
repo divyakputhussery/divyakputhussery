@@ -6,7 +6,7 @@ My name is Divya. I currently live in Sydney, Australia!
 
 - 🔭 I’m currently working on creating my personal portfolio  
 - 🌱 I’m currently learning AI and digital marketing
-- 💬 Ask me anything about email marketing, segmentation, automation or Emarsys.  
+- 💬 Email marketing in Emarsys is my thing — segmentation, automation, workflows… ask me anything!.  
 - 📫 How to [reach](divyasharath.ai.expert@gmail.com ) me 
 - 🏃 I love running 
 - 🌿 Currently reading — better than before  
