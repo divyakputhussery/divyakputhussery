@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Divya. I currently live in Sydney, Australia!
+My name is Divya. I live in Sydney, Australia!
 <!--
 **divyakputhussery/divyakputhussery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
