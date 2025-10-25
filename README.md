@@ -4,8 +4,7 @@ My name is Divya. I currently live in Sydney, Australia!
 **divyakputhussery/divyakputhussery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on creating my personal portfolio  
-- 🌱 I’m currently learning AI and digital marketing
+- 🔭 Currently Building my portfolio | Learning AI & digital marketing 
 - 💬 Email marketing in Emarsys is my thing — segmentation, automation, workflows… ask me anything!.  
 - 📫 How to [reach](mailto:divyasharath.ai.expert@gmail.com ) me
 - 🏃 I love running 
