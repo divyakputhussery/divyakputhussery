@@ -8,7 +8,7 @@ My name is Divya. I live in Sydney, Australia!
 - 💬 Email marketing in Emarsys is my thing — segmentation, automation, workflows… ask me anything!.  
 - 📫 How to [reach](mailto:divyasharath.ai.expert@gmail.com ) me
 - 🏃🏻‍♀️ I love running 
-- 📚 Currently reading — Better Than Before By Gretchen Rubin 
+- 📚 Currently reading — Time Wise By Amantha Imber 
 - 🌐 Visit my [website & portfolio](https://heyitsdivya.com)
 - ✍️ Read my [Tech Tales](https://techtales.heyitsdivya.com/)
 - ☕ Time for a coffee [read](https://whisperswithinme.substack.com)
