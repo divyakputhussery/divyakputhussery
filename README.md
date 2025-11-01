@@ -10,7 +10,7 @@ My name is Divya. I live in Sydney, Australia!
 - 🏃🏻‍♀️ I love running 
 - 📚 Currently reading — Time Wise By Amantha Imber 
 - 🌐 Visit my [website & portfolio](https://heyitsdivya.com)
-- ✍️ Read my [Tech Tales](https://techtales.heyitsdivya.com/)
+- ✍️ Read my blog [Tech Tales](https://techtales.heyitsdivya.com/)
 - ☕ Time for a coffee [read](https://whisperswithinme.substack.com)
 
 
