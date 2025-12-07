@@ -7,7 +7,7 @@ My name is Divya. I live in Sydney, Australia!
 - 👨🏻‍💻 Currently Building my portfolio
 - 💬 Email marketing in Emarsys is my thing — segmentation, automation, workflows… ask me anything!.  
 - 📫 How to [reach](mailto:divya@divlytics.com.au) me
-- 🏃🏻‍♀️ I love [running[(https://www.strava.com/athletes/92696998)
+- 🏃🏻‍♀️ I love running
 - 😊 Diving into [AI and digital marketing](https://divlytics.com/)
 - 📚 Currently reading — [Time Wise](https://amzn.to/4hD4EAl) By Amantha Imber 
 - 🌐 What I’ve been up to - [portfolio](https://heyitsdivya.com)
