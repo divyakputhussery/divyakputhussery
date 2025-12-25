@@ -11,7 +11,7 @@ My name is Divya. I live in Sydney, Australia!
 - 😊 Diving into [AI and digital marketing](https://divlytics.com.au/)
 - 📚 Currently reading — [Time Wise](https://amzn.to/4hD4EAl) By Amantha Imber 
 - 🌐 What I’ve been up to - [portfolio](https://heyitsdivya.com)
-- ✍️ Read my blog [Tech Tales](https://techtales.heyitsdivya.com/)
+- ✍️ Read my blog [Divlytics](https://medium.com/@divlytics)
 - ☕ Time for a coffee [read](https://whisperswithinme.substack.com)
 
 
