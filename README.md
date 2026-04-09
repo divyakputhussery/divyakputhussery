@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Divya
 
-Senior Software Engineer with 10+ years of experience building web applications — now focused on designing and deploying real-world **AWS cloud and AI-powered systems**.
+Senior Software Engineer with 10+ years of experience building web applications,  now focused on designing and deploying real-world **AWS cloud and AI-powered systems**.
 
 Currently based in Sydney, Australia 🇦🇺
 
