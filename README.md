@@ -8,9 +8,9 @@ Currently based in Sydney, Australia 🇦🇺
 
 ## 🚀 What I Build
 
-- ☁️ Serverless architectures on AWS (Lambda, DynamoDB, EventBridge, S3)
-- 🤖 AI-powered workflows using Amazon Bedrock
-- 🔗 Automation systems integrating APIs, data pipelines, and business processes
+- Scalable, event-driven systems and backend services  
+- AI-assisted workflows to automate tasks and support decision-making  
+- End-to-end solutions integrating APIs, data, and business processes  
 
 ---
 
