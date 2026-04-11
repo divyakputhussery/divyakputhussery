@@ -49,7 +49,8 @@ Built automation systems connecting APIs and services to reduce manual effort.
 
 - Advanced event-driven architectures on AWS  
 - AI + automation systems at scale  
-- Practical applications of foundation models  
+- Practical applications of foundation models
+- LLMs, LlamaIndex, LangGraph, MCP, RAG
 
 ---
 
