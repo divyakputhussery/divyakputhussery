@@ -58,7 +58,7 @@ Built automation systems connecting APIs and services to reduce manual effort.
 
 - ✍️ Medium: https://medium.com/@divlytics  
 - ▶️ YouTube: https://www.youtube.com/@Divlytics  
-- 📫 Email: divya@divlytics.com.au  
+- 📫 Email: divyasharath86@gamil.com
 
 ---
 
