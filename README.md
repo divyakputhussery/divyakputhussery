@@ -65,4 +65,5 @@ Built automation systems connecting APIs and services to reduce manual effort.
 ## ⚡ Beyond Tech
 
 - 🏃‍♀️ Running community: https://runwithsrc.com/  
-- 📚 Reading: *Eat That Frog* by Brian Tracy  
+- 📚 Reading: *Eat That Frog* by Brian Tracy
+- ✍️ Personal writing → [whispers within](https://whisperswithinme.substack.com/)
