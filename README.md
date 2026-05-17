@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Divya
 
-Senior Software Engineer with 10+ years of backend experience building scalable web applications. Currently based in Sydney 🇦🇺 and actively upskilling in AWS cloud, AI-powered systems, and data engineering while seeking new opportunities following relocation.
+Senior Software Engineer with 10+ years of backend experience building scalable web applications. Currently based in Sydney 🇦🇺 and actively upskilling in AWS cloud, AI-powered systems, and data engineering while **seeking new opportunities following relocation**.
 
 ---
 
