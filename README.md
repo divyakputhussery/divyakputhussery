@@ -26,14 +26,12 @@ End-to-end serverless pipeline that collects AI news, processes it, and generate
 
 ---
 
-### 🔹 AI-powered Websites (Client Projects)
+### 🔹 AI-powered Websites 
 Designed and deployed AI-powered websites focused on automation and lead generation.
 
 - AI-assisted development workflows
 - Cloud-based deployment and integrations  
 - Automation-focused architecture  
-
-🔒 Source code is private due to client confidentiality
 
 ---
 
